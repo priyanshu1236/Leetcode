@@ -11,30 +11,40 @@
  */
 class Solution {
 public:
-    int maxDepth(TreeNode* root) {
-        queue <TreeNode*>q;
-        int depth=0;
-        if(root==NULL) return depth;
-        q.push(root);
-        vector<vector<int>>ans;
-        while(!q.empty())
-        {
-          vector<int>level;
-          int size=q.size();
-          for(int i=0;i<size;i++)
-          {
-              TreeNode* curr=q.front();
-            q.pop();
-            level.push_back(curr->val);
-            if(curr->left)
-            q.push(curr->left);
-            if(curr->right)
-            q.push(curr->right);
-          }
-ans.push_back(level);
 
-        }
-depth=ans.size();
-return depth;
+    int maxDepth(TreeNode* root) {
+        // level order check
+//         queue <TreeNode*>q;
+//         int depth=0;
+//         if(root==NULL) return depth;
+//         q.push(root);
+//         vector<vector<int>>ans;
+//         while(!q.empty())
+//         {
+//           vector<int>level;
+//           int size=q.size();
+//           for(int i=0;i<size;i++)
+//           {
+//               TreeNode* curr=q.front();
+//             q.pop();
+//             level.push_back(curr->val);
+//             if(curr->left)
+//             q.push(curr->left);
+//             if(curr->right)
+//             q.push(curr->right);
+//           }
+// ans.push_back(level);
+
+//         }
+// depth=ans.size();
+// return depth;
+
+//recursive check
+if(!root) return 0;
+int rh= maxDepth(root->right);
+int lh =maxDepth(root->left);
+int maxh=max(rh,lh)+1;
+return maxh;
+
     }
 };
