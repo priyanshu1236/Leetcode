@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/priyanshu1236/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [1920-build-array-from-permutation](https://github.com/priyanshu1236/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/priyanshu1236/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyanshu1236/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/priyanshu1236/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/priyanshu1236/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [3498-reverse-degree-of-a-string](https://github.com/priyanshu1236/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
