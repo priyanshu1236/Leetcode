@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/priyanshu1236/Leetcode/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/priyanshu1236/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1920-build-array-from-permutation](https://github.com/priyanshu1236/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/priyanshu1236/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -17,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/priyanshu1236/Leetcode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/priyanshu1236/Leetcode/tree/master/0389-find-the-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyanshu1236/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/priyanshu1236/Leetcode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/priyanshu1236/Leetcode/tree/master/0389-find-the-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/priyanshu1236/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
@@ -50,4 +53,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/priyanshu1236/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/priyanshu1236/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/priyanshu1236/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/priyanshu1236/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
